@@ -8,14 +8,6 @@
 
 <blockquote align="center">“Querer vencer significa já ter percorrido metade do caminho.”</blockquote>
 
-<p align="center">
-
-  <a href="LICENSE" >
-    <img alt="License" src="https://img.shields.io/badge/license-MIT-%23F8952D">
-  </a>
-
-</p>
-
 ## :rocket: Sobre o desafio
 
 Desafios para fortalecer alguns conceitos, entre eles:
