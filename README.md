@@ -20,10 +20,10 @@
 
 ## :rocket: Desafios
 
-- [Primeiros passos com JavaScript](https://github.com/martins-rafael/bootcamp-launchbase-desafios-01/tree/master/01-1%20Primeiros%20passos%20com%20JavaScript)
-- [Lidando com objetos e vetores](https://github.com/martins-rafael/bootcamp-launchbase-desafios-01/tree/master/01-2%20Lidando%20com%20objetos%20e%20vetores)
-- [Funções e estruturas de repetição](https://github.com/martins-rafael/bootcamp-launchbase-desafios-01/tree/master/01-3%20Fun%C3%A7%C3%B5es%20e%20estruturas%20de%20repeti%C3%A7%C3%A3o)
-- Aplicação: Operações bancárias
+- [Primeiros passos com JavaScript](01-1%20Primeiros%20passos%20com%20JavaScript)
+- [Lidando com objetos e vetores](01-2%20Lidando%20com%20objetos%20e%20vetores)
+- [Funções e estruturas de repetição](01-3%20Fun%C3%A7%C3%B5es%20e%20estruturas%20de%20repeti%C3%A7%C3%A3o)
+- [Aplicação: Operações bancárias](01-4%20Aplicação%20Operações%20bancárias)
 
 ## :memo: Licença
 
