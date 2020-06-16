@@ -11,12 +11,13 @@
 <p align="center">
 
   <a href="LICENSE" >
-    <img alt="License" src="https://img.shields.io/badge/license-MIT-%23F8952D">
+    <img src="https://img.shields.io/badge/language-JavaScript-%23F8952D?style=flat-square">
+    <img alt="License" src="https://img.shields.io/badge/license-MIT-%23F8952D?style=flat-square">
   </a>
 
 </p>
 
-<h3>Repositório para apresentar os desafios realizados no bootcamp.<h3>
+<h3 align="center">Repositório para apresentar os desafios realizados no bootcamp.<h3>
 
 ## :rocket: Desafios
 
